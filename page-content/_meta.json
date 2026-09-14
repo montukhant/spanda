@@ -1,0 +1,62 @@
+{
+  "404-page": {
+    "title": "Ntec - Saas & Software HTML5 Template",
+    "description": "Ntec - Saas & Software HTML5 Template for all kinds of agency, app landing, bootstrap 5, business, corporate, creative, doc, documentation, landing page, mobile app, sass, software, survey",
+    "route": "/404-page"
+  },
+  "about": {
+    "title": "Ntec - Saas & Software HTML5 Template",
+    "description": "Ntec - Saas & Software HTML5 Template for all kinds of agency, app landing, bootstrap 5, business, corporate, creative, doc, documentation, landing page, mobile app, sass, software, survey",
+    "route": "/about"
+  },
+  "blog-details": {
+    "title": "Techni - Saas & Software HTML Template",
+    "description": "Techni - Saas & Software HTML Template for all kinds of agency, app landing, bootstrap 5, business, corporate, creative, doc, documentation, landing page, mobile app, sass, software, survey",
+    "route": "/blog-details"
+  },
+  "blog": {
+    "title": "Techni - Saas & Software HTML Template",
+    "description": "Techni - Saas & Software HTML Template for all kinds of agency, app landing, bootstrap 5, business, corporate, creative, doc, documentation, landing page, mobile app, sass, software, survey",
+    "route": "/blog"
+  },
+  "contact": {
+    "title": "Techni - Saas & Software HTML Template",
+    "description": "Techni - Saas & Software HTML Template for all kinds of agency, app landing, bootstrap 5, business, corporate, creative, doc, documentation, landing page, mobile app, sass, software, survey",
+    "route": "/contact"
+  },
+  "faq": {
+    "title": "Ntec - Saas & Software HTML5 Template",
+    "description": "Ntec - Saas & Software HTML5 Template for all kinds of agency, app landing, bootstrap 5, business, corporate, creative, doc, documentation, landing page, mobile app, sass, software, survey",
+    "route": "/faq"
+  },
+  "index": {
+    "title": "Ntec - Saas & Software HTML5 Template",
+    "description": "Ntec - Saas & Software HTML5 Template for all kinds of agency, app landing, bootstrap 5, business, corporate, creative, doc, documentation, landing page, mobile app, sass, software, survey",
+    "route": "/"
+  },
+  "project-details": {
+    "title": "Ntec - Saas & Software HTML5 Template",
+    "description": "Ntec - Saas & Software HTML5 Template for all kinds of agency, app landing, bootstrap 5, business, corporate, creative, doc, documentation, landing page, mobile app, sass, software, survey",
+    "route": "/project-details"
+  },
+  "project": {
+    "title": "Ntec - Saas & Software HTML5 Template",
+    "description": "Ntec - Saas & Software HTML5 Template for all kinds of agency, app landing, bootstrap 5, business, corporate, creative, doc, documentation, landing page, mobile app, sass, software, survey",
+    "route": "/project"
+  },
+  "services-details": {
+    "title": "Ntec - Saas & Software HTML5 Template",
+    "description": "Ntec - Saas & Software HTML5 Template for all kinds of agency, app landing, bootstrap 5, business, corporate, creative, doc, documentation, landing page, mobile app, sass, software, survey",
+    "route": "/services-details"
+  },
+  "services": {
+    "title": "Ntec - Saas & Software HTML5 Template",
+    "description": "Ntec - Saas & Software HTML5 Template for all kinds of agency, app landing, bootstrap 5, business, corporate, creative, doc, documentation, landing page, mobile app, sass, software, survey",
+    "route": "/services"
+  },
+  "team": {
+    "title": "Ntec - Saas & Software HTML5 Template",
+    "description": "Ntec - Saas & Software HTML5 Template for all kinds of agency, app landing, bootstrap 5, business, corporate, creative, doc, documentation, landing page, mobile app, sass, software, survey",
+    "route": "/team"
+  }
+}
